@@ -172,8 +172,7 @@ Employee-Attrition-Prediction-System/
 │   └── create_notebook.py
 │
 ├── README.md
-├── requirements.txt
-└── .gitignore
+
 ```
 
 ---
@@ -192,13 +191,7 @@ git clone https://github.com/yourusername/Employee-Attrition-Prediction-System.g
 cd Employee-Attrition-Prediction-System
 ```
 
-## 3. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## 4. Run Jupyter Notebook
+## 3. Run Jupyter Notebook
 
 ```bash
 jupyter notebook
@@ -256,8 +249,4 @@ Aishwarya Reddy
 
 Data Science & Machine Learning Enthusiast
 
----
 
-# License
-
-This project is created for educational and portfolio purposes.
